@@ -35,7 +35,7 @@ export default function Home() {
           </div>
 
           <div className="p-6 mt-16 border rounded-lg shadow-lg bg-gray-50">
-            <h3 className="mb-4 text-xl font-semibold">How it works</h3>
+            <h3 className="mb-4 text-xl font-semibold">How it Wworks</h3>
             <ol className="space-y-2 text-left">
               <li className="flex items-start">
                 <span className="flex items-center justify-center w-6 h-6 mr-2 text-sm font-bold text-white bg-black rounded-full">
